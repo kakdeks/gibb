@@ -1,20 +1,20 @@
-# gibb
-$ pkg install python
+# Boom Baru
+pkg update
 
-$ pkg install git
+pkg upgrade
 
-$ pip install requests
+pkg install python
 
-$ pip install mechanize
+pkg install cowsay
 
-$ pip install bs4
+pkg install git
 
-$ pip install futures
+git clone https://github.com/kakdeks/gibb
 
-$ git clone https://github.com/Kakdeks/Gibb
- 
-$ cd Gibb
+cd kakdeks
 
-$ git pull
+bash *.sh
 
-$ python Gibb.py
+clear
+
+git pull
