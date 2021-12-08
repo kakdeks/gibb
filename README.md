@@ -11,10 +11,10 @@ $ pip install bs4
 
 $ pip install futures
 
-$ git clone https://github.com/Kakdeks/Gibb
+$ git clone https://github.com/kakdeks/gibb
  
 $ cd Gibb
 
 $ git pull
 
-$ python Gibb.py
+$ python gibb.py
